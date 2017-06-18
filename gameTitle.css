@@ -1,0 +1,25 @@
+#mainTitle {
+ 	text-align: center;
+	color:black;
+	margin-top: 7.5%;
+	font-family: Brush Script Std, Brush Script MT, cursive;
+	
+	
+}
+#creator{
+	text-align: center;
+	
+}
+
+#beginPlay{
+
+	text-align: center;
+	color: red;
+}
+#logo{
+	text-align: center;
+}
+a:hover {
+    color: Blue;
+    background-color: black;
+}
